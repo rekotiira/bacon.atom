@@ -23,8 +23,10 @@
     "url": "https://github.com/calmm-js/bacon.atom/issues"
   },
   "homepage": "https://github.com/calmm-js/bacon.atom#readme",
+  "peerDependencies": {
+    "baconjs": "^0.7.84"
+  },
   "dependencies": {
-    "baconjs": "^0.7.84",
     "partial.lenses": ">=2.2.0 <4.0.0",
     "ramda": ">=0.20.1 <0.22.0"
   },
