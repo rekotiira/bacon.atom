@@ -27,7 +27,7 @@
     "baconjs": "^0.7.84"
   },
   "dependencies": {
-    "partial.lenses": ">=2.2.0 <4.0.0",
+    "partial.lenses": "rekotiira/partial.lenses#build",
     "ramda": ">=0.20.1 <0.22.0"
   },
   "devDependencies": {
